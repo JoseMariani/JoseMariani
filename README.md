@@ -48,7 +48,7 @@
 <Br>
 <h1>Some of my Projects! 🎨</h1>
 <Br>
-[!(https://github-readme-stats.vercel.app/api/pin/?username=JoseMariani&repo=wauto)]
+(https://github-readme-stats.vercel.app/api/pin/?username=JoseMariani&repo=wauto)
 <Br>
 <hr>
 <Br>
