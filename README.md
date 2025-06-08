@@ -15,13 +15,6 @@
   
 <hr>
 <Br>
-<h1 align="center">Get in Touch! 📬</h1>
-<Br>
-<p align="center">
-<a href="https://www.linkedin.com/in/jose-mariani" target="blank"><img align="center" src="https://img.shields.io/badge/Arya Manjaramkar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> &nbsp;&nbsp;&nbsp;  <a href="mailto:josemariani2@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/josemariani2@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>    &nbsp;&nbsp;&nbsp;       <a href="https://github.com/JoseMariani" target="blank"><img align="center" src="https://img.shields.io/badge/JoseMariani?style=for-the-badge&logo=github&logoColor=white" /></a>
-</p>
-  
-<Br>
 <hr>
 <Br>
 <h1 align="center">Skills I have! 🤸‍♂</h1>
